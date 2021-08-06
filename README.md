@@ -1,4 +1,4 @@
-# Rajendra Kodumuri - Technology Enthusiast, All Time Learner.
+# All Time Learner, Technology, Space and Programming Enthusiast!
 ### Hello there! 👋
 
 <!--
