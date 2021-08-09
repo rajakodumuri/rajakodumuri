@@ -24,11 +24,18 @@ I am a developer, an all time learner, I'm a CS student at University of the Peo
 ## <div align=center>Wanna say hello? Feel free to...</div>
 
 <div align=center>
-  <a href='mailto:rajakodumuri@gmail.com'><img src='https://img-premium.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1628475983~hmac=f1f5ffedbb3b38c613f0f8095aea76f3' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href='https://www.facebook.com/rajakodumuri'><img src='https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href='https://www.twitter.com/rajakodumuri'><img src='https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href='https://www.linkedin.com/in/rajakodumuri'><img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='mailto:rajakodumuri@gmail.com'><img src='https://image.flaticon.com/icons/png/512/732/732200.png' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://www.facebook.com/rajakodumuri'><img src='https://image.flaticon.com/icons/png/512/733/733547.png' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://www.twitter.com/rajakodumuri'><img src='https://image.flaticon.com/icons/png/512/733/733579.png' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://www.linkedin.com/in/rajakodumuri'><img src='https://image.flaticon.com/icons/png/512/174/174857.png' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://t.me/rajakodumuri'><img src='https://image.flaticon.com/icons/png/512/2111/2111646.png' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+<!-- ## <div align=center>Details about my work</div>
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- ⚡ Fun fact: ... -->
 
 PS: If you see this 👇 anywhere, I wrote that!
 ```
@@ -48,18 +55,3 @@ PS: If you see this 👇 anywhere, I wrote that!
             |-\  |--|  _|  |-  |\|  |__|  |-\  |--|      \`  |_|  |__|  | |  |\/|  | |  |-\  |            
 ----------------------------------------------------------------------------------------------------------
 ```
-
-<!--
-**rajakodumuri/rajakodumuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
