@@ -17,7 +17,7 @@
 -->
 
 # <div align=center>All Time Learner, Technology, Space and Programming Enthusiast!</div>
-### Hello there! 👋
+### <div align=center>Hello there! 👋<div>
 
 I am a developer, an all time learner, I'm a CS student at University of the People and am working as a Tier 3 Engineer. My interests range from -- obsessing over silly business ideas, technology, entrepreneurship, space, programming -- to automating little things to make mundane activities... well, fun. I am also interested in music and video games (IGN: rajakodumuri).
 
