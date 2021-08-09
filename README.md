@@ -26,10 +26,10 @@ You can click the button above to hire me. If you’d like to get in touch, feel
 ## Wanna say hello? Feel free to...
 
 <section align=center>
-  <a href='mailto:rajakodumuri@gmail.com'><img src='https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg' width='25'/></a>
-  <a href='https://www.facebook.com/rajakodumuri'><img src='https://commons.wikimedia.org/wiki/File:Facebook_f_logo_(2019).svg' width='25'/></a>
-  <a href='https://www.twitter.com/rajakodumuri'><img src='https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg' width='25'/></a>
-  <a href='https://www.linkedin.com/in/rajakodumuri'><img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg' width='25'/></a>
+  <a href='mailto:rajakodumuri@gmail.com'><img src='https://img-premium.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1628475983~hmac=f1f5ffedbb3b38c613f0f8095aea76f3' width='40'/></a>
+  <a href='https://www.facebook.com/rajakodumuri'><img src='https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg' width='40'/></a>
+  <a href='https://www.twitter.com/rajakodumuri'><img src='https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg' width='40'/></a>
+  <a href='https://www.linkedin.com/in/rajakodumuri'><img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg' width='40'/></a>
 </section>
 
 PS: If you see this 👇 anywhere, I wrote that!
