@@ -21,16 +21,14 @@
 
 I am a developer, an all time learner, I'm a CS student at University of the People and am working as a Tier 3 Engineer. My interests range from -- obsessing over silly business ideas, technology, entrepreneurship, space, programming -- to automating little things to make mundane activities... well, fun. I am also interested in music and video games (IGN: rajakodumuri).
 
-You can click the button above to hire me. If you’d like to get in touch, feel free to say hello through any of the options listed below.
-
 ## Wanna say hello? Feel free to...
 
-<section align=center>
-  <a href='mailto:rajakodumuri@gmail.com'><img src='https://img-premium.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1628475983~hmac=f1f5ffedbb3b38c613f0f8095aea76f3' width='40'/></a>
-  <a href='https://www.facebook.com/rajakodumuri'><img src='https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg' width='40'/></a>
-  <a href='https://www.twitter.com/rajakodumuri'><img src='https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg' width='40'/></a>
-  <a href='https://www.linkedin.com/in/rajakodumuri'><img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg' width='40'/></a>
-</section>
+<div align=center>
+  <a href='mailto:rajakodumuri@gmail.com'><img src='https://img-premium.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1628475983~hmac=f1f5ffedbb3b38c613f0f8095aea76f3' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://www.facebook.com/rajakodumuri'><img src='https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://www.twitter.com/rajakodumuri'><img src='https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://www.linkedin.com/in/rajakodumuri'><img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
 PS: If you see this 👇 anywhere, I wrote that!
 ```
