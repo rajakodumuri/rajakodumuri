@@ -16,12 +16,12 @@
 ----------------------------------------------------------------------------------------------------------
 -->
 
-# All Time Learner, Technology, Space and Programming Enthusiast!
+# <p align=center>All Time Learner, Technology, Space and Programming Enthusiast!</p>
 ### Hello there! 👋
 
 I am a developer, an all time learner, I'm a CS student at University of the People and am working as a Tier 3 Engineer. My interests range from -- obsessing over silly business ideas, technology, entrepreneurship, space, programming -- to automating little things to make mundane activities... well, fun. I am also interested in music and video games (IGN: rajakodumuri).
 
-## Wanna say hello? Feel free to...
+## <p align=center>Wanna say hello? Feel free to...</p>
 
 <div align=center>
   <a href='mailto:rajakodumuri@gmail.com'><img src='https://img-premium.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1628475983~hmac=f1f5ffedbb3b38c613f0f8095aea76f3' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
