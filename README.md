@@ -34,7 +34,7 @@ I am a developer, an all time learner, I'm a CS student at University of the Peo
 ## <div align=center>My GitHub Stats (courtesy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))</div>
 <div align=center>
 
-  ![Rajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajakodumuri&show_icons=true&theme=dracula)]
+  ![Rajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajakodumuri&show_icons=true&theme=dracula)
 
 </div>
 
