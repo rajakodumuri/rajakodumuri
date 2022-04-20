@@ -24,11 +24,11 @@ I am tech enthusiast, developer, gamer `IGN: rajakodumuri`, musichead, thinker a
 ## <div align=center>Wanna say hello? Feel free to...</div>
 
 <div align=center>
-  <a href='mailto:rajakodumuri@gmail.com'><img src='https://image.flaticon.com/icons/png/512/732/732200.png' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href='https://www.facebook.com/rajakodumuri'><img src='https://image.flaticon.com/icons/png/512/733/733547.png' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href='https://www.twitter.com/rajakodumuri'><img src='https://image.flaticon.com/icons/png/512/733/733579.png' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href='https://www.linkedin.com/in/rajakodumuri'><img src='https://image.flaticon.com/icons/png/512/174/174857.png' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href='https://t.me/rajakodumuri'><img src='https://image.flaticon.com/icons/png/512/2111/2111646.png' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='mailto:rajakodumuri@gmail.com'><img src='https://cdn-icons-png.flaticon.com/512/5968/5968534.png' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://www.facebook.com/rajakodumuri'><img src='https://cdn-icons-png.flaticon.com/512/733/733547.png' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://www.twitter.com/rajakodumuri'><img src='https://cdn-icons-png.flaticon.com/512/733/733579.png' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://www.linkedin.com/in/rajakodumuri'><img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://t.me/rajakodumuri'><img src='https://cdn-icons-png.flaticon.com/512/2111/2111646.png' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ## <div align=center>My GitHub Stats (courtesy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))</div>
