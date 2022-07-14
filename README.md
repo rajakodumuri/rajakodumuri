@@ -19,7 +19,7 @@
 # <div align=center>All Time Learner, Technology, Space and Programming Enthusiast!</div>
 ### <div align=center>Hello there! 👋<div>
 
-I am tech enthusiast, developer, gamer `IGN: rajakodumuri`, musichead, thinker and an all time learner, I'm working as a Tier 3 Engineer with Replicon. My interests range from obsessing over silly business ideas, technology, entrepreneurship, space, programming to automating little things to make mundane activities... well, fun.
+I am tech enthusiast, developer, gamer `IGN: rajakodumuri`, musichead, thinker and an all time learner. I'm working as a Support Engineer with Fivetran. My interests range from exploring business ideas, technology, entrepreneurship, space, programming to automating little things to make mundane activities... well, fun.
 
 ## <div align=center>Wanna say hello? Feel free to...</div>
 
@@ -44,7 +44,7 @@ I am tech enthusiast, developer, gamer `IGN: rajakodumuri`, musichead, thinker a
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ... -->
 
-PS: If you see this 👇 anywhere, I wrote that!
+PS: If you see👇 anywhere, I wrote that!
 ```
 ----------------------------------------------------------------------------------------------------------
                           |__|  |-  \ /  |-  |_  |_|  |-`  |-  |__|      |:|  `/                          
